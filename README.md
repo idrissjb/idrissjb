@@ -1,6 +1,6 @@
 ## Hi, I'm Idriss Jbilou 👋
 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/d1cbdb4f-59e2-419f-a671-d51e4eb59abd" />
+  <img src="header.png" alt="Header" style="width:100%; height:auto;">
 **🎓 3rd-year Computer Engineering & Networks student at EMSI
 
 **⚙️ Tech Stack
