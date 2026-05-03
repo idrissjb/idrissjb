@@ -1,9 +1,9 @@
 ## Hi, I'm Idriss Jbilou 👋
 
-  <img src="header.png" alt="Header" style="width:100%; height:auto;">
-**🎓 3rd-year Computer Engineering & Networks student at EMSI
+  
+🎓 3rd-year Computer Engineering & Networks student at EMSI
 
-**⚙️ Tech Stack
+⚙️ Tech Stack
 <h2>⚙️ Tech Stack</h2>
 
 <ul>
