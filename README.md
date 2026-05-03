@@ -3,7 +3,6 @@
   
 🎓 3rd-year Computer Engineering & Networks student at EMSI
 
-⚙️ Tech Stack
 <h2>⚙️ Tech Stack</h2>
 
 <ul>
